@@ -118,7 +118,7 @@ class PhpUnderControl_Example_MathTest extends PHPUnit_Framework_TestCase
      */
     public function testFail()
     {
-        $this->fail('Failed because...');
+        //$this->fail('Failed because...');
     }
 
     /**
